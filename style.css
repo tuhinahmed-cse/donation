@@ -98,27 +98,137 @@ input{
 
 
   }
-  .box3{ 
-    width:320px; 
-    height:200px; 
-    background:#ccc; 
-    padding:10px; 
+  .donate-text{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+  }
+  .donate-paragraph{
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-bottom: 80px;
+  }
+
+  .donate-description {
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+.box3 {
+    width: 270px;
+    background:aliceblue;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
     box-sizing: content-box;
-    margin: 30px;
-     
-  }
-  .box4{ 
-    width:320px; 
-    height:200px; 
-    background:#ccc; 
-    padding:10px; 
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+.icon img {
+    width: 50px;
+    margin-bottom: 20px;
+
+}
+.food-text
+{
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.box4 {
+    width: 270px;
+    background:antiquewhite;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
     box-sizing: content-box;
-    margin: 30px;
-  }
-  .box5{ 
-    width:320px; 
-    height:200px; 
-    background:#ccc; 
-    padding:10px; 
-    box-sizing: content-box 
-  }
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+.box5 {
+    width: 270px;
+    background:lemonchiffon;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+
+.donate-plan{
+    margin-bottom: 150px;
+}
+h2{
+    text-align: center;
+}
+
+.icon-bonus img{
+
+    width: 300px;
+    margin-bottom: 35px;
+
+}
+.icon-bonus0 img {
+
+    width: 300px;
+
+
+}
+.icon-bonus1 img{
+
+    width: 300px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+
+}
+.bonus-description{
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-wrap: wrap;
+
+}
+.box6 {
+    width: 270px;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+.bonus-text{
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align: center;
+
+}
+.bonus-para{
+    text-align:center;
+}
+.bonus-contact{
+
+    text-align: center;
+    margin-bottom: 60px;
+}
+.bonus-button {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 500px;
+    
+}
