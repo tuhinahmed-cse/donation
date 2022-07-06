@@ -12,6 +12,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    margin-bottom: 150px;
 
 }
 .heading1{
@@ -43,9 +44,9 @@ margin-bottom: 100px;
 }
 .donate-today{
     text-align: center;
-    padding-top: 100px;
     padding-left: 400px;
     padding-right: 400px;
+    margin-bottom: 150px;
 
 }
 .heading2{
@@ -63,7 +64,8 @@ margin-bottom: 100px;
     text-align: center;
     padding-top: 40px;
     margin-top: 40px;
- margin-left: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
   }
   .box2{ 
     width:130px; 
@@ -74,13 +76,49 @@ margin-bottom: 100px;
     text-align: center;
     padding-top: 40px;
     margin-top: 40px;
- margin-left: 10px;
- color: red;
- border: 1px solid red;
+    margin-left: 10px;
+    color: red;
+    border: 1px solid red;
+    border-radius: 5px;
   }
 
 
   .flex{
     display: flex;
-    margin-bottom: 120px;
+    margin-bottom: 60px;
 }
+input{
+    width: 500px;
+    padding: 10px 20px;
+    border-color: transparent;
+    border-bottom: 1px solid darkgrey;
+    font-size: 18px;
+    margin-bottom: 50px;
+    text-align: center;
+
+
+  }
+  .box3{ 
+    width:320px; 
+    height:200px; 
+    background:#ccc; 
+    padding:10px; 
+    box-sizing: content-box;
+    margin: 30px;
+     
+  }
+  .box4{ 
+    width:320px; 
+    height:200px; 
+    background:#ccc; 
+    padding:10px; 
+    box-sizing: content-box;
+    margin: 30px;
+  }
+  .box5{ 
+    width:320px; 
+    height:200px; 
+    background:#ccc; 
+    padding:10px; 
+    box-sizing: content-box 
+  }
