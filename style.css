@@ -268,5 +268,21 @@ input[type=email], select {
     padding: 70px;
     margin-left: 250px;
     margin-right: 250px;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
   }
+  .navbar {
+    background-color: black;
+    color:#e73434c2;
+    padding: 60px 60px 60px 60px;
+    text-align: center;
+
+}
+.foot-text{
+    font-family: 'Lobster', cursive;
+
+    font-size: 40px;
+
+}
+.foot-para{
+    color: white;
+}
